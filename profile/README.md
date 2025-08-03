@@ -1,6 +1,6 @@
 # HackScaleTeam
 
-[HackScale Banner](assets/HackScale.gif)
+[HackScale Banner](.github/profile/assets/HackScale.gif)
 
 **Red Team Operations | Offensive Security | Ethical Hacking**
 
