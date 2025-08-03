@@ -1,4 +1,4 @@
-![HackScale Banner](assets/hackscale.gif)
+[HackScale Banner](assets/hackscale.gif)
 
 # HackScaleTeam
 
