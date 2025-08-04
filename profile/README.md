@@ -25,7 +25,7 @@ We design, build, and maintain open-source tools for red teaming, adversary emul
 )](https://patreon.com/HackScale)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hackscale_)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hack_scale)
-- [![Facebook]([https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white](https://facebook.com/hackscaleteam)
+- [![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hackscaleteam)
 
 
 ---
