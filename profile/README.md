@@ -22,13 +22,11 @@ We design, build, and maintain open-source tools for red teaming, adversary emul
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/QCnfai-gRQ1iYTA8)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hackscale_)
 - [![Patreon](https://img.shields.io/badge/Patreon
-)]
-(https://patreon.com/HackScale)
+)](https://patreon.com/HackScale)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hackscale_)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hack_scale)
 - [![Facebook](https://img.shields.io/badge/Facebook
-)]
-(https://facebook.com/hackscaleteam)
+)](https://facebook.com/hackscaleteam)
 
 
 ---
