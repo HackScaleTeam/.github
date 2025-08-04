@@ -17,7 +17,7 @@ We design, build, and maintain open-source tools for red teaming, adversary emul
 
 ---
 
-## Connect
+## CONNECT WITH US
 
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hack_scale)
 - [![Patreon](https://img.shields.io/badge/Patreon-404040?style=flat&logo=Patreon
