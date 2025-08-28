@@ -13,7 +13,7 @@ We design, build, and maintain open-source tools for red teaming, adversary emul
 - **[Dominion](https://github.com/HackScaleTeam/Dominion)** — Cross-platform Keylogger with Discord C2.
 - **[ArpSpoof](https://github.com/HackScaleTeam/ArpSpoof)** — Simple ARP spoofing tool (MITM).
 - **[Sniffer](https://github.com/HackScaleTeam/Sniffer)** — HTTP/HTTPS traffic sniffer.
-- **[Sniffer](https://github.com/HackScaleTeam/replace-download)** — intercepts .exe download requests on a network and redirects them to a custom payload URL.
+- **[replace-download](https://github.com/HackScaleTeam/replace-download)** — intercepts .exe download requests on a network and redirects them to a custom payload URL.
 - **[APKSigner](https://github.com/HackScaleTeam/apk_signer)** — Bash script for signing rebuilt APKs.
 
 ---
