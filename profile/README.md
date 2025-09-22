@@ -10,6 +10,7 @@ We design, build, and maintain open-source tools for red teaming, adversary emul
 
 ##  Projects
 
+- **[Kush](https://github.com/HackScaleTeam/kush-exploitation-framework)** — Kush is a lightweight post-exploitation framework written in Python..
 - **[Dominion](https://github.com/HackScaleTeam/Dominion)** — Cross-platform Keylogger with Discord C2.
 - **[ArpSpoof](https://github.com/HackScaleTeam/ArpSpoof)** — Simple ARP spoofing tool (MITM).
 - **[Sniffer](https://github.com/HackScaleTeam/Sniffer)** — HTTP/HTTPS traffic sniffer.
