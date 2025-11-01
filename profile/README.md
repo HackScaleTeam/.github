@@ -1,38 +1,30 @@
 # HackScaleTeam
 
 ![HackScale Banner](assets/HackScale.gif)
+<h1 align="center">> HACK SCALE</h1>
 
-**Red Team Operations | Offensive Security | Ethical Hacking**
-
+<p align="center">
+<b>Red Team Operations | Offensive Security | Ethical Hacking Tools</b><br>
 We design, build, and maintain open-source tools for red teaming, adversary emulation, and cybersecurity research.
-
----
-
-##  Projects
-
-- **[DefenderDropper](https://github.com/HackScaleTeam/DefenderDropper)** — Advanced DLL Hijacking Payload Generator Using Windows Defender Vulnerabilities.
-- **[Kush](https://github.com/HackScaleTeam/kush-exploitation-framework)** — Kush is a lightweight post-exploitation framework written in Python..
-- **[Dominion](https://github.com/HackScaleTeam/Dominion)** — Cross-platform Keylogger with Discord C2.
-- **[ArpSpoof](https://github.com/HackScaleTeam/ArpSpoof)** — Simple ARP spoofing tool (MITM).
-- **[Sniffer](https://github.com/HackScaleTeam/Sniffer)** — HTTP/HTTPS traffic sniffer.
+</p>
 
 
 
 ---
 
-## CONNECT WITH US
+###  CONNECT WITH US
+<p align="center">
+<a href="https://youtube.com/@hackscale"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://twitter.com/_hackscale_"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/_hackscale_"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://facebook.com/hackscale"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hack_scale)
-- [![Patreon](https://img.shields.io/badge/Patreon-404040?style=flat&logo=Patreon
-)](https://patreon.com/HackScale)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hackscale_)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hackscale_)
-- [![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hackscaleteam)
 
 
----
 
-**Veteran Owned & Operated**
 
 ---
+
+<p align="center"><i>Veteran Owned & Operated</i></p>
 
